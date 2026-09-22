@@ -28,8 +28,6 @@ Here are some ideas to get you started:
 ### <div align="center">A fullstack developer from Argentina, with a preference for the backend but with a strong interest in the frontend.</div>  
   
 
-- 🔭 I’m currently working on my final project to finish Henry Bootcamp.  
-  
 
 - 🧠 I'm currently interested on start working in the industry.  
   
